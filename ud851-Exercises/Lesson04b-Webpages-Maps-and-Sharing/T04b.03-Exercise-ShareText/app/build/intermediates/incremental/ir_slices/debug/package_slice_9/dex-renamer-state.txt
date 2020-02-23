@@ -1,0 +1,4 @@
+#Wed Aug 14 17:06:04 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson04b-Webpages-Maps-and-Sharing/T04b.03-Exercise-ShareText/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson04a-Starting-New-Activities/T04a.03-Exercise-PassingDataBetweenActivities/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson04a-Starting-New-Activities/T04a.03-Exercise-PassingDataBetweenActivities/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "899",
+                        "endColumns": "57",
+                        "endOffsets": "952"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

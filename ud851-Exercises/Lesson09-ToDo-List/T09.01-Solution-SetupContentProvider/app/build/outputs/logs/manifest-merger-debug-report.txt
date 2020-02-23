@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [com.android.databinding:adapters:3.4.2] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/16b12f9863fa74c708c456211daf7242/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.2] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/89fd681a70791845750833b0730e7c3e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/7daa8ff406ba5d297781b581d0a9243a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/b06313e9d0b0f151f3ca9d503d33d7aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2259029890a2678807d90dc7f6e06cb6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/77a4a83f286292852553d204c17342f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2852623bd7f66acfa5e4bea4446e54a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/77d6607fa41d815d4005f4bf30969d0b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2849a552349cb799f80c5ac23df0118f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/d32acc1b1541619c6611c199d5921d0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/43f886174d8287eb4604ce197ce20818/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2494eb81d5249f5d346c49c02bde4cf9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dda31979347da0ee7a2b6b650106a64d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/acc404d77ccc437dbb10c95936462ba2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/ddadbe7bf9ee8a34a32e754957e130d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/d1091f98ef3ea17232466d9efe5f5473/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/8d056c4063632a984b599d1099f436bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/5c5c812738cbdebfa47e8ed3f2e2ca29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/5407e14689947c4ee9ad28a51784806b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/7f2233b15013a4fda5d600e8cc6be006/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c73dc9537335cc8dc5bc41b261ac5bc5/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/979133d25ee64af9f91add193f766c44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9d47b9e13ac83129f8aa6b5cb4fd413e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/d16bb898e5144bebe0e6dabc844206c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/99185a3eeb2c7b4806bc57094c9aeb36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/66b9966e7ae5890a04d0252adfc94ecb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/de07bc56c04afb43de4bbd9bfef76202/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/a0676ead4ca9488282133ce9e0c92394/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0c23e5fbd2c5613ae230d808dcc16c54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/b01d2be2408ac8fe9329ac39731d500a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/4bf939e5071335cc93ff1c9afd766dc5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/6be09bf23128efc83ad7a8cde8c661e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/79eb4d16fa3801d53d331b18addfe77b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:4:5-43
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:6:5-36:19
+MERGED from [com.android.support:design:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/7daa8ff406ba5d297781b581d0a9243a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/7daa8ff406ba5d297781b581d0a9243a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2259029890a2678807d90dc7f6e06cb6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2259029890a2678807d90dc7f6e06cb6/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c73dc9537335cc8dc5bc41b261ac5bc5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c73dc9537335cc8dc5bc41b261ac5bc5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9d47b9e13ac83129f8aa6b5cb4fd413e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9d47b9e13ac83129f8aa6b5cb4fd413e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c73dc9537335cc8dc5bc41b261ac5bc5/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.todolist.MainActivity
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:15:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.android.todolist.AddTaskActivity
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:24:9-26:62
+	android:label
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:26:13-59
+	android:name
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:25:13-72
+provider#com.example.android.todolist.data.TaskContentProvider
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:31:9-34:39
+	android:authorities
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:33:13-63
+	android:exported
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml:32:13-81
+uses-sdk
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.4.2] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/16b12f9863fa74c708c456211daf7242/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.2] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/16b12f9863fa74c708c456211daf7242/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.2] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/89fd681a70791845750833b0730e7c3e/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.2] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/89fd681a70791845750833b0730e7c3e/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/7daa8ff406ba5d297781b581d0a9243a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/7daa8ff406ba5d297781b581d0a9243a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/b06313e9d0b0f151f3ca9d503d33d7aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/b06313e9d0b0f151f3ca9d503d33d7aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2259029890a2678807d90dc7f6e06cb6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2259029890a2678807d90dc7f6e06cb6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/77a4a83f286292852553d204c17342f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/77a4a83f286292852553d204c17342f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2852623bd7f66acfa5e4bea4446e54a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2852623bd7f66acfa5e4bea4446e54a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/77d6607fa41d815d4005f4bf30969d0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/77d6607fa41d815d4005f4bf30969d0b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2849a552349cb799f80c5ac23df0118f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2849a552349cb799f80c5ac23df0118f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/d32acc1b1541619c6611c199d5921d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/d32acc1b1541619c6611c199d5921d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/43f886174d8287eb4604ce197ce20818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/43f886174d8287eb4604ce197ce20818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2494eb81d5249f5d346c49c02bde4cf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/2494eb81d5249f5d346c49c02bde4cf9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dda31979347da0ee7a2b6b650106a64d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dda31979347da0ee7a2b6b650106a64d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/acc404d77ccc437dbb10c95936462ba2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/acc404d77ccc437dbb10c95936462ba2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/ddadbe7bf9ee8a34a32e754957e130d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/ddadbe7bf9ee8a34a32e754957e130d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/d1091f98ef3ea17232466d9efe5f5473/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/d1091f98ef3ea17232466d9efe5f5473/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/8d056c4063632a984b599d1099f436bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/8d056c4063632a984b599d1099f436bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/5c5c812738cbdebfa47e8ed3f2e2ca29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/5c5c812738cbdebfa47e8ed3f2e2ca29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/5407e14689947c4ee9ad28a51784806b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/5407e14689947c4ee9ad28a51784806b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/7f2233b15013a4fda5d600e8cc6be006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/7f2233b15013a4fda5d600e8cc6be006/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c73dc9537335cc8dc5bc41b261ac5bc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c73dc9537335cc8dc5bc41b261ac5bc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/979133d25ee64af9f91add193f766c44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/979133d25ee64af9f91add193f766c44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9d47b9e13ac83129f8aa6b5cb4fd413e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9d47b9e13ac83129f8aa6b5cb4fd413e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/d16bb898e5144bebe0e6dabc844206c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/d16bb898e5144bebe0e6dabc844206c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/99185a3eeb2c7b4806bc57094c9aeb36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/99185a3eeb2c7b4806bc57094c9aeb36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/66b9966e7ae5890a04d0252adfc94ecb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/66b9966e7ae5890a04d0252adfc94ecb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/de07bc56c04afb43de4bbd9bfef76202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/de07bc56c04afb43de4bbd9bfef76202/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/a0676ead4ca9488282133ce9e0c92394/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/a0676ead4ca9488282133ce9e0c92394/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0c23e5fbd2c5613ae230d808dcc16c54/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0c23e5fbd2c5613ae230d808dcc16c54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/b01d2be2408ac8fe9329ac39731d500a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/b01d2be2408ac8fe9329ac39731d500a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/4bf939e5071335cc93ff1c9afd766dc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/4bf939e5071335cc93ff1c9afd766dc5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/6be09bf23128efc83ad7a8cde8c661e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/6be09bf23128efc83ad7a8cde8c661e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/79eb4d16fa3801d53d331b18addfe77b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/79eb4d16fa3801d53d331b18addfe77b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09-ToDo-List/T09.01-Solution-SetupContentProvider/app/src/main/AndroidManifest.xml

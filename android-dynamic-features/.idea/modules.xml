@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-dynamic-features.iml" filepath="$PROJECT_DIR$/android-dynamic-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/assets/assets.iml" filepath="$PROJECT_DIR$/features/assets/assets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/features.iml" filepath="$PROJECT_DIR$/features/features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/java/java.iml" filepath="$PROJECT_DIR$/features/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/kotlin/kotlin.iml" filepath="$PROJECT_DIR$/features/kotlin/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/native/native.iml" filepath="$PROJECT_DIR$/features/native/native.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/961560cefa57e8364d8a2a62cf369b4c/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0557955fe2bbc87047af350cbe58a79c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/1bdb95de57fdf2a104b99bb62bf7c086/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0585a4c7641c0fc7c25526e77718279a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/958c6e06746944be002f8928e1ed45de/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/de41e9c01f054b67f4c0d326f70b4393/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dbf04bbfe9ddcf71903ef72e679a5343/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c630b321f9a40046a44c72dd96d08417/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9244474c18ac764121f47c7450ed67dd/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:3:11-56
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/961560cefa57e8364d8a2a62cf369b4c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/961560cefa57e8364d8a2a62cf369b4c/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0557955fe2bbc87047af350cbe58a79c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0557955fe2bbc87047af350cbe58a79c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/1bdb95de57fdf2a104b99bb62bf7c086/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/1bdb95de57fdf2a104b99bb62bf7c086/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0585a4c7641c0fc7c25526e77718279a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0585a4c7641c0fc7c25526e77718279a/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/958c6e06746944be002f8928e1ed45de/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/958c6e06746944be002f8928e1ed45de/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/de41e9c01f054b67f4c0d326f70b4393/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/de41e9c01f054b67f4c0d326f70b4393/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dbf04bbfe9ddcf71903ef72e679a5343/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dbf04bbfe9ddcf71903ef72e679a5343/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c630b321f9a40046a44c72dd96d08417/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c630b321f9a40046a44c72dd96d08417/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9244474c18ac764121f47c7450ed67dd/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9244474c18ac764121f47c7450ed67dd/AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.example.android.asynctaskloader.MainActivity
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:13:19-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/961560cefa57e8364d8a2a62cf369b4c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/961560cefa57e8364d8a2a62cf369b4c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0557955fe2bbc87047af350cbe58a79c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0557955fe2bbc87047af350cbe58a79c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/1bdb95de57fdf2a104b99bb62bf7c086/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/1bdb95de57fdf2a104b99bb62bf7c086/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0585a4c7641c0fc7c25526e77718279a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0585a4c7641c0fc7c25526e77718279a/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/958c6e06746944be002f8928e1ed45de/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/958c6e06746944be002f8928e1ed45de/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/de41e9c01f054b67f4c0d326f70b4393/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/de41e9c01f054b67f4c0d326f70b4393/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dbf04bbfe9ddcf71903ef72e679a5343/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dbf04bbfe9ddcf71903ef72e679a5343/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c630b321f9a40046a44c72dd96d08417/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/c630b321f9a40046a44c72dd96d08417/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9244474c18ac764121f47c7450ed67dd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/9244474c18ac764121f47c7450ed67dd/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/961560cefa57e8364d8a2a62cf369b4c/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/src/main/AndroidManifest.xml

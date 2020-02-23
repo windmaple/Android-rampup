@@ -1,0 +1,4 @@
+#Fri Aug 23 16:22:52 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.04-Exercise-Executors/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

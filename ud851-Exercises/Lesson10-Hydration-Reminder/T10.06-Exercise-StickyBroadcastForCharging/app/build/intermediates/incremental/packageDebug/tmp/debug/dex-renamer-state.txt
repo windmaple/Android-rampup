@@ -1,0 +1,4 @@
+#Mon Aug 26 13:59:27 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.06-Exercise-StickyBroadcastForCharging/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

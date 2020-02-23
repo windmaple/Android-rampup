@@ -1,0 +1,4 @@
+#Wed Aug 14 15:57:37 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson04a-Starting-New-Activities/T04a.03-Exercise-PassingDataBetweenActivities/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

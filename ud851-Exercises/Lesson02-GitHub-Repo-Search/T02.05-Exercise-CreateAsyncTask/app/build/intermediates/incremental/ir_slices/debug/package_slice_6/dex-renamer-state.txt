@@ -1,0 +1,4 @@
+#Thu Aug 08 18:08:31 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson02-GitHub-Repo-Search/T02.05-Exercise-CreateAsyncTask/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

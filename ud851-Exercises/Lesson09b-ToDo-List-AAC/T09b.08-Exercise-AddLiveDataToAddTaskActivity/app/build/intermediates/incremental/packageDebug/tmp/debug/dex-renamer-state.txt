@@ -1,0 +1,4 @@
+#Sat Aug 24 13:16:32 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.08-Exercise-AddLiveDataToAddTaskActivity/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

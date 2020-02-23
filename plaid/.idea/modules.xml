@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/about/about.iml" filepath="$PROJECT_DIR$/about/about.iml" group="plaid/about" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="plaid/app" />
+      <module fileurl="file://$PROJECT_DIR$/third_party/bypass/bypass.iml" filepath="$PROJECT_DIR$/third_party/bypass/bypass.iml" group="plaid/bypass" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" group="plaid/core" />
+      <module fileurl="file://$PROJECT_DIR$/designernews/designernews.iml" filepath="$PROJECT_DIR$/designernews/designernews.iml" group="plaid/designernews" />
+      <module fileurl="file://$PROJECT_DIR$/dribbble/dribbble.iml" filepath="$PROJECT_DIR$/dribbble/dribbble.iml" group="plaid/dribbble" />
+      <module fileurl="file://$PROJECT_DIR$/plaid.iml" filepath="$PROJECT_DIR$/plaid.iml" group="plaid" />
+      <module fileurl="file://$PROJECT_DIR$/search/search.iml" filepath="$PROJECT_DIR$/search/search.iml" group="plaid/search" />
+      <module fileurl="file://$PROJECT_DIR$/test_shared/test_shared.iml" filepath="$PROJECT_DIR$/test_shared/test_shared.iml" group="plaid/test_shared" />
+    </modules>
+  </component>
+</project>

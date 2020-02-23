@@ -1,0 +1,53 @@
+{
+  "ndkFolder": "/Users/weiwe/Library/Android/sdk/ndk-bundle",
+  "messages": [
+    {
+      "level": "INFO",
+      "message": "android.ndkVersion from module build.gradle is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "ndk.dir in local.properties is /Users/weiwe/Library/Android/sdk/ndk-bundle"
+    },
+    {
+      "level": "INFO",
+      "message": "ANDROID_NDK_HOME environment variable is /Users/weiwe/Library/Android/sdk/ndk"
+    },
+    {
+      "level": "INFO",
+      "message": "sdkFolder is /Users/weiwe/Library/Android/sdk"
+    },
+    {
+      "level": "WARN",
+      "message": "Support for ANDROID_NDK_HOME is deprecated and will be removed in the future. Use android.ndkVersion in build.gradle instead."
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/weiwe/Library/Android/sdk/ndk-bundle by ndk.dir"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/weiwe/Library/Android/sdk/ndk by ANDROID_NDK_HOME"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/weiwe/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/weiwe/Library/Android/sdk/ndk/android-ndk-r18b in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/weiwe/Library/Android/sdk/ndk/android-ndk-r20 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Rejected /Users/weiwe/Library/Android/sdk/ndk by ANDROID_NDK_HOME because that location has no source.properties"
+    },
+    {
+      "level": "INFO",
+      "message": "Found requested ndk.dir (/Users/weiwe/Library/Android/sdk/ndk-bundle) which has version 21.0.6113669"
+    }
+  ]
+}

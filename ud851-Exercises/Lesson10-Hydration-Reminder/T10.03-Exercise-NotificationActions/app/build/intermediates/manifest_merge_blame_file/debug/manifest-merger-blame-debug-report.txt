@@ -1,0 +1,62 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.background"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:5:22-63
+12
+13    <application
+13-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:6:5-27:19
+14        android:allowBackup="true"
+14-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:7:9-35
+15        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+15-->[com.android.support:support-compat:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dd1cf78f22bdd94f550130b281f27c97/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:9:9-41
+19        android:supportsRtl="true"
+19-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:11:9-40
+22        <activity
+22-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:12:9-21:20
+23            android:name="com.example.android.background.MainActivity"
+23-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:13:13-41
+24            android:launchMode="singleTop"
+24-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:14:13-43
+25            android:screenOrientation="portrait" >
+25-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:15:13-49
+26            <intent-filter>
+26-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:16:13-20:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:17:17-68
+27-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:17:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:19:17-76
+29-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:19:27-74
+30            </intent-filter>
+31        </activity>
+32
+33        <!-- This is required for immediate syncs -->
+34        <service
+34-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:24:9-26:39
+35            android:name="com.example.android.background.sync.WaterReminderIntentService"
+35-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:25:13-60
+36            android:exported="false" />
+36-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.03-Exercise-NotificationActions/app/src/main/AndroidManifest.xml:26:13-37
+37    </application>
+38
+39</manifest>

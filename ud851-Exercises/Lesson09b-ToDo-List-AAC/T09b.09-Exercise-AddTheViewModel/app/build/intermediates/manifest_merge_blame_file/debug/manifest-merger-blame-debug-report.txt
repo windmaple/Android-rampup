@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.android.todolist"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:6:5-28:19
+12        android:allowBackup="false"
+12-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:7:9-36
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/dd1cf78f22bdd94f550130b281f27c97/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:8:9-43
+16        android:label="@string/app_name"
+16-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:9:9-41
+17        android:supportsRtl="true"
+17-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:10:9-35
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:11:9-40
+20
+21        <!-- The manifest entry for the MainActivity -->
+22        <activity android:name="com.example.android.todolist.MainActivity" >
+22-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:15:9-21:20
+22-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:15:19-75
+23            <intent-filter>
+23-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:16:13-20:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:17:17-69
+24-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:17:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:19:17-77
+26-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:19:27-74
+27            </intent-filter>
+28        </activity>
+29
+30        <!-- AddTaskActivity -->
+31        <activity
+31-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:24:9-26:62
+32            android:name="com.example.android.todolist.AddTaskActivity"
+32-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:25:13-72
+33            android:label="@string/add_task_activity_name" />
+33-->/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.09-Exercise-AddTheViewModel/app/src/main/AndroidManifest.xml:26:13-59
+34
+35        <provider
+35-->[android.arch.lifecycle:extensions:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0319b019d62b322e5e3e8b69d1380784/extensions-1.1.1/AndroidManifest.xml:23:9-27:43
+36            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+36-->[android.arch.lifecycle:extensions:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0319b019d62b322e5e3e8b69d1380784/extensions-1.1.1/AndroidManifest.xml:24:13-83
+37            android:authorities="com.example.android.todolist.lifecycle-trojan"
+37-->[android.arch.lifecycle:extensions:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0319b019d62b322e5e3e8b69d1380784/extensions-1.1.1/AndroidManifest.xml:25:13-68
+38            android:exported="false"
+38-->[android.arch.lifecycle:extensions:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0319b019d62b322e5e3e8b69d1380784/extensions-1.1.1/AndroidManifest.xml:26:13-37
+39            android:multiprocess="true" />
+39-->[android.arch.lifecycle:extensions:1.1.1] /Users/weiwe/.gradle/caches/transforms-2/files-2.1/0319b019d62b322e5e3e8b69d1380784/extensions-1.1.1/AndroidManifest.xml:27:13-40
+40    </application>
+41
+42</manifest>

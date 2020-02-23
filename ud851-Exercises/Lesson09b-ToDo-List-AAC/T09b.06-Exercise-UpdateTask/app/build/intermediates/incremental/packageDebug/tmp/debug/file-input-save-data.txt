@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Aug 24 12:30:29 CST 2019
+0.baseType=DIRECTORY
+0.base=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson09b-ToDo-List-AAC/T09b.06-Exercise-UpdateTask/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

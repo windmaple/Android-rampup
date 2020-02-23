@@ -1,0 +1,4 @@
+#Mon Aug 26 08:51:46 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson10-Hydration-Reminder/T10.02-Exercise-CreateNotification/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,37 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="in.uncod.android.bypass.test" >
+4
+5    <uses-sdk
+5-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:5:5-74
+6        android:minSdkVersion="23"
+6-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:11:5-15:78
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:11:22-75
+11        android:functionalTest="false"
+11-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:13:22-53
+13        android:label="Tests for in.uncod.android.bypass.test"
+13-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:15:22-76
+14        android:targetPackage="in.uncod.android.bypass.test" />
+14-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:12:22-74
+15
+16    <application
+16-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:7:5-9:19
+17        android:debuggable="true"
+17-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:7:18-43
+18        android:extractNativeLibs="false"
+19        android:label="@string/app_name" >
+19-->[__tested_artifact__::bypass] /Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:18-50
+20        <uses-library android:name="android.test.runner" />
+20-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:8:9-60
+20-->/Users/weiwe/Desktop/android-class/plaid/third_party/bypass/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6482043127598986323.xml:8:23-57
+21    </application>
+22
+23</manifest>

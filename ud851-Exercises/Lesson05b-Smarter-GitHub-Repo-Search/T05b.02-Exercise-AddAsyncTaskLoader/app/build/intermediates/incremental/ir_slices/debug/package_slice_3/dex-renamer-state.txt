@@ -1,0 +1,4 @@
+#Sun Aug 18 12:51:36 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.02-Exercise-AddAsyncTaskLoader/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

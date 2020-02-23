@@ -1,0 +1,4 @@
+#Wed Aug 14 14:48:30 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson03-Green-Recycler-View/T03.07-Solution-RecyclerViewClickHandling/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

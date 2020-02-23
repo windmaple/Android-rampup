@@ -1,0 +1,4 @@
+#Sat Aug 17 14:57:30 CST 2019
+base.0=/Users/weiwe/Desktop/android-class/ud851-Exercises/Lesson05b-Smarter-GitHub-Repo-Search/T05b.01-Exercise-SaveResults/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
